@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">
-  <img src="./.github/preview.gif" alt="Project Preview" height="300px" />
+  <img src="./.github/preview.jpg" alt="Project Preview" height="300px" />
 </h1>
 
 <h4 align="center"> 
